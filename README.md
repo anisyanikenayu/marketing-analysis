@@ -29,7 +29,7 @@ ShopEasy, an online retail business, is experiencing a decline in customer engag
 
 - njdnjs
 
-  ![image](https://github.com/user-attachments/assets/6d0afec2-1e7b-4fdd-886a-c0b4c1e2a6e5)
+  ![image](https://github.com/user-attachments/assets/1de4d1ac-c5b8-4f0e-ad2d-6dc64f147ca6)
 
 
 
