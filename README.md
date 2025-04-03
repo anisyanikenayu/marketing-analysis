@@ -1,4 +1,4 @@
-# ShopEasy: Marketing Analysis
+# ShopEasy: Social Media Marketing Analysis
 
 Table of Content
 - Project Background
